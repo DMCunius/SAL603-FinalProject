@@ -1,2 +1,2 @@
 # SAL603-FinalProject
- I have not decided the topic for my final project yet. I will change this page once I can provide an update.
+ For our final project, we are going to analyze Cy Young Award Winners and select metrics, such as Pitch Mix and Velocity, as well as box score statistics to try and determine why a given pitcher was dominant.
