@@ -8,3 +8,5 @@ Derek Cunius, Andrew Fish, Benett Dervishaj, Xander Cho
 
 ## Presentation Link
 https://youtu.be/9MjRFchsE1Y
+
+Note: Data from Fangraphs, Lahman Database, and Baseball Reference
